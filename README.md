@@ -2,9 +2,9 @@
 <img src="https://github.com/narelo/page-bootstrap/blob/main/images/bootstrap.png?raw=true" width="300">
 </h1>
 
-<h2>
+<h1>
 <img src="https://github.com/narelo/page-bootstrap/blob/main/images/logo-dio.png?raw=true" width="150"> HTML Web Developer • Construindo páginas para internet com bootstrap
-</h2>
+</h1>
 
 <p>A página criada é um guia rápido feito com bootstrap para exemplificar um pouco do que é possível fazer com o uso do framework em conjunto com HTML e CSS na construção de páginas web, a partir da documentação da ferramenta. </p>
 
