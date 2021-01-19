@@ -1,0 +1,69 @@
+body{
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1{
+    color: #8d08f7;
+    font-weight: bold;
+    margin-top: 140px;
+}
+
+h3{
+    margin-top: 20px;
+    font-weight: bold;
+    color: #8d08f7;
+}
+
+.navbar{
+    background-color: #8d08f7;
+}
+
+#description{
+    font-weight: bold;
+    color: gray;
+    margin-top: 20px;
+}
+
+.margin{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.techs{
+    background: #8d08f7;
+}
+
+#tools{
+    margin-top: 110px;
+    color: #ddd9ce;
+}
+
+#logo-techs{
+    margin-top: 100px;
+}
+
+.services{
+    background-color: #ddd9ce;
+}
+
+#dio{
+    margin-top: 10px;
+    width: 200px;
+}
+
+#colors{
+    width: 100px;
+}
+
+#pexels{
+    width: 150px;
+}
+
+#boot{
+    width: 100px;
+}
+
+.bg-footer{
+    color: #ddd9ce;
+    background-color: #8d08f7;
+}
